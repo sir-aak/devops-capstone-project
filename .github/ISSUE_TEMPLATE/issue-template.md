@@ -1,6 +1,6 @@
 ---
 name: issue template
-about: issue
+about: user-story
 title: ''
 labels: ''
 assignees: ''
