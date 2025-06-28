@@ -9,11 +9,6 @@ kind: Pipeline
 metadata:  
   name: cd-pipeline
 spec:
-  template:
-    spec:
-      containers:
-      - image: IMAGE_NAME_HERE
-        name: accounts
   workspaces:
     - name: pipeline-workspace
   params:
